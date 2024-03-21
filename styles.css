@@ -201,8 +201,8 @@ margin-top:5px;
        
 }
 .logo{
-    width:200px;
-    height:100px;
+    width:160px;
+    height:60px;
     margin-left:300px;
     margin-top:23px;
     position:fixed;
@@ -214,7 +214,7 @@ margin-top:5px;
     margin-left:-10px;
 }
 .continue{
-    width:500px;
+    width:1000px;
     height:60px;
     font-size:21px;
 }
@@ -251,11 +251,11 @@ margin-top:5px;
     margin-left:35px;
 }
 .emailoruser{
-    font-size:28px;
+    font-size:40px;
 }
 input{
     margin-left:130px;
-    width:500px;
+    width:1000px;
     height:60px;
     margin-top:-15px;
 }
@@ -265,7 +265,7 @@ input{
     margin-top:-10px;
 }
 .wbutton{
-    width:500px;
+    width:1000px;
     height:60px;
     font-size:21px;
     margin-left:123px;
