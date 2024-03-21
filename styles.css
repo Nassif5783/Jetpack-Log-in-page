@@ -201,8 +201,8 @@ margin-top:5px;
        
 }
 .logo{
-    width:150px;
-    height:40px;
+    width:200px;
+    height:100px;
     margin-left:300px;
     margin-top:23px;
     position:fixed;
@@ -233,15 +233,15 @@ margin-top:5px;
 
 }
 .jicon{
-    width:35px;
-    height:35px;
+    width:45px;
+    height:45px;
     margin-top:13px;
     margin-right:-10px;
 
 }
 .wicon{
-    width: 85px;
-    height:55px;
+    width: 95px;
+    height:65px;
     margin-top:1px;
     margin-left:-10px;
 
