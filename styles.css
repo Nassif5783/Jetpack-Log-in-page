@@ -214,7 +214,7 @@ margin-top:5px;
     margin-left:-10px;
 }
 .continue{
-    width:700px;
+    width:650px;
     height:80px;
     font-size:21px;
 }
@@ -254,8 +254,8 @@ margin-top:5px;
     font-size:40px;
 }
 input{
-    margin-left:130px;
-    width:700px;
+    margin-left:75px;
+    width:650px;
     height:80px;
     margin-top:-15px;
 }
@@ -265,10 +265,10 @@ input{
     margin-top:-10px;
 }
 .wbutton{
-    width:700px;
+    width:650px;
     height:80px;
     font-size:21px;
-    margin-left:123px;
+    margin-left:70px;
 }
 .google{
     width:30px;
