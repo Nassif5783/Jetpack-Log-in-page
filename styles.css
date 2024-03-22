@@ -190,7 +190,7 @@ margin-top:5px;
 }
 @media only screen and (max-width:768px){
     .agree{
-        font-size:16.9px;
+        font-size:19px;
         margin-left:25px;
     }
     header{
@@ -247,7 +247,7 @@ margin-top:5px;
 
 }
 .login{
-    font-size:28px;
+    font-size:35px;
     margin-left:35px;
 }
 .emailoruser{
@@ -261,7 +261,7 @@ input{
 }
 .or{
     margin-left:70px;
-    font-size:16px;
+    font-size:18px;
     margin-top:-10px;
 }
 .wbutton{
