@@ -70,7 +70,7 @@
 .emailoruser{
     font-family:sans-serif;
     font-size:18px;
-    margin-left:130px;
+    margin-left:90px;
 }
 .google{
     width:20px;
@@ -190,7 +190,7 @@ margin-top:5px;
 }
 @media only screen and (max-width:768px){
     .agree{
-        font-size:19px;
+        font-size:30px;
         margin-left:25px;
     }
     header{
@@ -202,7 +202,7 @@ margin-top:5px;
 }
 .logo{
     width:170px;
-    height:50px;
+    height:40px;
     margin-left:300px;
     margin-top:23px;
     position:fixed;
@@ -215,11 +215,12 @@ margin-top:5px;
 }
 .continue{
     width:650px;
+    margin-left:50px;
     height:80px;
     font-size:21px;
 }
 .create{
-    font-size:21px;
+    font-size:35px;
     margin-left:180px;
     margin-bottom:50px;
 }
@@ -233,15 +234,15 @@ margin-top:5px;
 
 }
 .jicon{
-    width:45px;
-    height:45px;
+    width:40px;
+    height:40px;
     margin-top:13px;
     margin-right:-10px;
 
 }
 .wicon{
-    width: 95px;
-    height:65px;
+    width: 90px;
+    height:60px;
     margin-top:1px;
     margin-left:-10px;
 
@@ -252,23 +253,24 @@ margin-top:5px;
 }
 .emailoruser{
     font-size:40px;
+     margin-left:50px;
 }
 input{
-    margin-left:75px;
+    margin-left:50px;
     width:650px;
     height:80px;
     margin-top:-15px;
 }
 .or{
     margin-left:70px;
-    font-size:18px;
+    font-size:25px;
     margin-top:-10px;
 }
 .wbutton{
     width:650px;
     height:80px;
     font-size:21px;
-    margin-left:70px;
+    margin-left:50px;
 }
 .google{
     width:30px;
