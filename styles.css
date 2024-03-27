@@ -209,8 +209,9 @@ margin-top:5px;
 }
 .card{
     margin-top:100px;
-    height:1200px;
-    width:200%;
+    height:1500px;
+    width:300%;
+    margin-left:-20px;
     
 }
 .continue{
@@ -318,8 +319,14 @@ input{
     font-size:30px;
 
 }
-.line1,.line2{
-     width:-300px;
-     margin-left:-50px;
+.line1{
+     width:300px;
 }
+.line1{
+     margin-left:10px;
+
+}
+     .line2{
+          margin-left:10px;
+     }
 
