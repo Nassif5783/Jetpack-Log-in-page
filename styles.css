@@ -210,7 +210,8 @@ margin-top:5px;
 .card{
     margin-top:100px;
     height:1800px;
-    width:350%;
+    width:300%;
+    margin-left:-50px;
     
     
 }
