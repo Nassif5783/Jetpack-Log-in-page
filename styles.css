@@ -201,7 +201,7 @@ margin-top:5px;
        
 }
 .logo{
-    width:200px;
+    width:300px;
     height:65px;
     margin-left:450px;
     margin-top:30px;
@@ -216,9 +216,9 @@ margin-top:5px;
     
 }
 .continue{
-    width:800px;
-    margin-left:80px;
-    height:100px;
+    width:900px;
+    margin-left:130px;
+    height:120px;
     font-size:30px;
 }
 .create{
@@ -227,7 +227,7 @@ margin-top:5px;
     margin-bottom:50px;
 }
 .icons{
-    margin-left:450px;
+    margin-left:500px;
      
 }
 .add{
@@ -237,31 +237,31 @@ margin-top:5px;
 
 }
 .jicon{
-    width:55px;
-    height:55px;
+    width:60px;
+    height:60px;
     margin-top:13px;
     margin-right:-10px;
 
 }
 .wicon{
-    width: 105px;
-    height:75px;
+    width: 110px;
+    height:80px;
     margin-top:1px;
     margin-left:-10px;
 
 }
 .login{
-    font-size:50px;
+    font-size:52px;
     margin-left:30px;
 }
 .emailoruser{
-    font-size:45px;
-     margin-left:150px;
+    font-size:48px;
+     margin-left:130px;
 }
 input{
-    margin-left:80px;
-    width:800px;
-    height:100px;
+    margin-left:130px;
+    width:900px;
+    height:120px;
     margin-top:-15px;
 }
 .or{
@@ -270,10 +270,10 @@ input{
     margin-top:-30px;
 }
 .wbutton{
-    width:800px;
-    height:100px;
+    width:900px;
+    height:120px;
     font-size:27px;
-    margin-left:150px;
+    margin-left:130px;
 }
 .google{
     width:35px;
