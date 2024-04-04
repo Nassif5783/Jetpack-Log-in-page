@@ -209,7 +209,7 @@ margin-top:5px;
     position:fixed;
 }
 .card{
-    margin-top:150px;
+    margin-top:250px;
     height:1800px;
     width:300%;
     margin-left:-50px;
@@ -325,11 +325,5 @@ input{
 .line1{
      width:500px;
 }
-.line1{
-     margin-right:70px;
 
-}
-     .line2{
-          margin-left:70px;
-     }
 
