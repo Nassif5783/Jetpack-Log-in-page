@@ -190,7 +190,7 @@ margin-top:5px;
 }
 @media only screen and (max-width:768px){
     .agree{
-        font-size:35px;
+        font-size:30px;
         margin-left:25px;
     }
     header{
@@ -220,11 +220,11 @@ margin-top:5px;
     width:900px;
     margin-left:130px;
     height:120px;
-    font-size:30px;
+    font-size:40px;
 }
 .create{
     font-size:40px;
-    margin-left:150px;
+    margin-left:180px;
     margin-bottom:50px;
 }
 .icons{
@@ -234,20 +234,20 @@ margin-top:5px;
 .add{
     font-weight:900;
     margin-top:30px;
-    font-size:30px;
-     margin-left:10px;
+    font-size:40px;
+     margin-left:25px;
 
 }
 .jicon{
-    width:60px;
-    height:60px;
+    width:63px;
+    height:63px;
     margin-top:13px;
     margin-right:-10px;
 
 }
 .wicon{
-    width: 130px;
-    height:90px;
+    width: 135px;
+    height:93px;
     margin-top:1px;
     margin-left:-10px;
 
@@ -274,7 +274,7 @@ input{
 .wbutton{
     width:900px;
     height:120px;
-    font-size:27px;
+    font-size:37px;
     margin-left:130px;
 }
 .google{
@@ -323,13 +323,13 @@ input{
 
 }
 .line1{
-     width:300px;
+     width:500px;
 }
 .line1{
-     margin-right:10px;
+     margin-right:70px;
 
 }
      .line2{
-          margin-left:10px;
+          margin-left:70px;
      }
 
