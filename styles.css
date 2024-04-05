@@ -217,8 +217,8 @@ margin-top:5px;
     
 }
 .continue{
-    width:900px;
-    margin-left:130px;
+    width:950px;
+    margin-left:125px;
     height:120px;
     font-size:40px;
 }
@@ -233,9 +233,9 @@ margin-top:5px;
 }
 .add{
     font-weight:900;
-    margin-top:30px;
+    margin-top:28px;
     font-size:40px;
-     margin-left:25px;
+     margin-left:28px;
 
 }
 .jicon{
@@ -261,8 +261,8 @@ margin-top:5px;
      margin-left:130px;
 }
 input{
-    margin-left:130px;
-    width:900px;
+    margin-left:125px;
+    width:950px;
     height:120px;
     margin-top:-15px;
 }
@@ -272,10 +272,10 @@ input{
     margin-top:-30px;
 }
 .wbutton{
-    width:900px;
+    width:950px;
     height:120px;
     font-size:37px;
-    margin-left:130px;
+    margin-left:125px;
 }
 .google{
     width:40px;
