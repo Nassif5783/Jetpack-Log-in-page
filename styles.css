@@ -267,9 +267,9 @@ input{
     margin-top:-15px;
 }
 .or{
-    margin-left:350px;
-    font-size:25px;
-    margin-top:-30px;
+    margin-left:353px;
+    font-size:28px;
+    margin-top:-33px;
 }
 .wbutton{
     width:950px;
@@ -278,34 +278,34 @@ input{
     margin-left:125px;
 }
 .google{
-    width:40px;
-    height:40px;
+    width:43px;
+    height:43px;
     margin-right:180px;
     margin-top:39px;
  
    
 }
 .apple{
-    width:55px;
-    height:40px;
+    width:58px;
+    height:43px;
     margin-right:180px;
     margin-top:19px;
 
 }
 .gtext{
-    margin-top:-28px;
-     margin-left:5px;
+    margin-top:-31px;
+     margin-left:8px;
     color:rgb(91, 90, 90);
     
 
 }
 .atext{
-    margin-top:-28px;
-     margin-left:5px;
+    margin-top:-31px;
+     margin-left:8px;
     color:rgb(91, 90, 90);
 }
 .lpass a{
-    font-size:27px;
+    font-size:37px;
     margin-left:20px;
     
 }
@@ -325,7 +325,7 @@ input{
 
 }
 .line1,.line2{
-     width:150px;
+     width:250px;
      margin-top:5px;
 }
      
