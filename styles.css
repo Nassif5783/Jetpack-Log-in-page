@@ -280,30 +280,30 @@ input{
     margin-left:125px;
 }
 .google{
-    width:46px;
-    height:46px;
-    margin-right:184px;
+    width:48px;
+    height:48px;
+    margin-right:200px;
     margin-top:39px;
  
    
 }
 .apple{
-    width:65px;
-    height:47px;
-    margin-right:184px;
+    width:70px;
+    height:50px;
+    margin-right:200px;
     margin-top:19px;
 
 }
 .gtext{
-    margin-top:-38px;
-     margin-left:25px;
+    margin-top:-45px;
+     
     color:rgb(91, 90, 90);
     
 
 }
 .atext{
-    margin-top:-38px;
-     margin-left:25px;
+    margin-top:-45px;
+
     color:rgb(91, 90, 90);
 }
 .lpass a{
