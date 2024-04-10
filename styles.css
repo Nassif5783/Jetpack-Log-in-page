@@ -268,9 +268,9 @@ input{
     margin-top:-15px;
 }
 .or{
-    margin-left:200px;
+    margin-left:180px;
     font-size:32px;
-    margin-top:8px;
+    margin-top:5px;
      font-weight:bold;
      font-family:sans-serif;
 }
@@ -317,7 +317,7 @@ input{
 }
 .abt {
     
-    margin-left:300px;
+    margin-left:200px;
     display:inline-flex;
     margin-top:-30px;
      margin-right:-50px;
@@ -330,10 +330,10 @@ input{
 .line2{
      width:450px;
      margin-top:10px;
-     margin-left:-50px;
+     margin-right:-100px;
 }
 .line1{
-     margin-left:-100px;
+     margin-left:-130px;
      width:450px;
      margin-top:10px;
      }
