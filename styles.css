@@ -270,7 +270,7 @@ input{
 .or{
     margin-left:260px;
     font-size:32px;
-    margin-top:2px;
+    margin-top:-1px;
      font-weight:bold;
      font-family:sans-serif;
 }
@@ -320,7 +320,7 @@ input{
     margin-left:200px;
     display:inline;
     margin-top:-30px;
-     margin-right:-80px;
+     
 
 }
 .abt a{
