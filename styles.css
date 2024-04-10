@@ -212,7 +212,7 @@ margin-top:5px;
     margin-top:250px;
     height:1800px;
     width:300%;
-    margin-left:-20px;
+    margin-left:-50px;
     
     
 }
@@ -326,11 +326,14 @@ input{
     font-size:30px;
 
 }
-.line1,.line2{
+.line2{
      width:350px;
      margin-top:8px;
-     margin-right:50px;
+     margin-right:70px;
 }
+.line1{
+     margin-left:-50px;
+     }
      
 
 
