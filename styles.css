@@ -327,13 +327,13 @@ input{
 
 }
 .line2{
-     width:500px;
+     width:450px;
      margin-top:10px;
-     margin-right:150px;
+     margin-left:-100px;
 }
 .line1{
-     margin-right:150px;
-     width:500px;
+     margin-left:-100px;
+     width:450px;
      margin-top:10px;
      }
      
