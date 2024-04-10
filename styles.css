@@ -272,7 +272,7 @@ input{
     font-size:32px;
     margin-top:8px;
      font-weight:bold;
-     font-family:sans-serif;
+     font-family:serif;
 }
 .wbutton{
     width:950px;
@@ -318,23 +318,24 @@ input{
 }
 .abt {
     
-    margin-left:10px;
-    display:inline-table;
-    margin-right: -50px;
+    margin-left:100px;
+    
     margin-top:-30px;
 
 }
 .abt a{
-    font-size:30px;
+    font-size:40px;
 
 }
 .line2{
-     width:350px;
-     margin-top:8px;
+     width:500px;
+     margin-top:10px;
      margin-right:80px;
 }
 .line1{
      margin-left:-80px;
+     width:500px;
+     margin-top:10px;
      }
      
 
