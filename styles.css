@@ -268,11 +268,11 @@ input{
     margin-top:-15px;
 }
 .or{
-    margin-left:340px;
+    margin-left:200px;
     font-size:32px;
     margin-top:8px;
      font-weight:bold;
-     font-family:serif;
+     font-family:sans-serif;
 }
 .wbutton{
     width:950px;
@@ -330,10 +330,10 @@ input{
 .line2{
      width:500px;
      margin-top:10px;
-     margin-right:80px;
+     margin-right:150px;
 }
 .line1{
-     margin-left:-80px;
+     margin-right:150px;
      width:500px;
      margin-top:10px;
      }
