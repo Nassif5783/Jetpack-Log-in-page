@@ -268,7 +268,7 @@ input{
     margin-top:-15px;
 }
 .or{
-    margin-left:200px;
+    margin-left:220px;
     font-size:32px;
     margin-top:2px;
      font-weight:bold;
@@ -320,7 +320,7 @@ input{
     margin-left:200px;
     display:flex;
     margin-top:-30px;
-     margin-right:-50px;
+     margin-right:-150px;
 
 }
 .abt a{
@@ -333,7 +333,7 @@ input{
      margin-right:-130px;
 }
 .line1{
-     margin-left:-130px;
+     margin-left:-150px;
      width:450px;
      margin-top:10px;
      }
