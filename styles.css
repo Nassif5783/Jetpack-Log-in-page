@@ -191,7 +191,7 @@ margin-top:5px;
 }
 @media only screen and (max-width:768px){
     .agree{
-        font-size:30px;
+        font-size:33px;
         margin-left:25px;
     }
     header{
@@ -318,8 +318,8 @@ input{
 .abt {
     
     margin-left:250px;
-     margin-right:-10px;
-    
+     margin-right:-30px;
+    display: inline-flex;
     margin-top:-30px;
      
 
@@ -334,7 +334,7 @@ input{
      margin-right:-170px;
 }
 .line1{
-     margin-left:-175px;
+     margin-left:-178px;
      width:476px;
      margin-top:15px;
      }
