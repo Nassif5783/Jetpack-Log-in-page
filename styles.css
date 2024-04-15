@@ -319,7 +319,7 @@ input{
     
     margin-left:250px;
      margin-right:-100px;
-    display:inline-flex;
+    
     margin-top:-30px;
      
 
@@ -329,13 +329,13 @@ input{
 
 }
 .line2{
-     width:500px;
+     width:480px;
      margin-top:15px;
      margin-right:-170px;
 }
 .line1{
      margin-left:-170px;
-     width:500px;
+     width:480px;
      margin-top:15px;
      }
      
