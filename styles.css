@@ -331,10 +331,10 @@ input{
 .line2{
      width:476px;
      margin-top:15px;
-     margin-right:-170px;
+     margin-left:-185px;
 }
 .line1{
-     margin-right:250px;
+     margin-right:-185px;
      width:476px;
      margin-top:15px;
      }
