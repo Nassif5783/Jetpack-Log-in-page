@@ -271,7 +271,7 @@ input{
     
     font-size:32px;
     margin-top:-1px;
-     margin-left:250px;
+     margin-left:200px;
      font-family:sans-serif;
 }
 .wbutton{
@@ -330,13 +330,15 @@ input{
 .line2{
      width:490px;
      margin-top:20px;
-
+     margin-right:-200px;
+     
      
 }
 .line1{
      
      width:490px;
      margin-top:20px;
+     margin-left:-200px;
      
      }
      
