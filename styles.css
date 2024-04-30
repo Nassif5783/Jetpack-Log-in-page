@@ -344,7 +344,7 @@ input{
      
      }
      .tos{
-          display:inline;
+          display:inline-flex;
      }
      
      
