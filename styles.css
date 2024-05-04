@@ -343,8 +343,8 @@ input{
      margin-left:-200px;
      
      }
-     .tos{
-          display:inline-block;
+     .tos {
+    white-space: nowrap;
      }
      
      
