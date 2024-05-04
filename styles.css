@@ -214,6 +214,7 @@ margin-top:5px;
     height:1600px;
     width:300%;
     margin-left:-50px;
+     padding-top:100px;
     
     
 }
@@ -317,7 +318,7 @@ input{
 }
 .abt {
     
-    margin-left:200px;
+    margin-left:180px;
     display:inline-flex;
     margin-top:-30px;
      
@@ -327,6 +328,7 @@ input{
 }
 .abt a{
     font-size:40px;
+     margin-right:20px;
 
 }
 .line2{
